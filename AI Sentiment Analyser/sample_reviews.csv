@@ -1,0 +1,51 @@
+Review_ID,Review_Text,Rating,Product_Category,Review_Date,Reviewer_Location,Verified_Purchase,Helpful_Votes,Product_Price,Review_Length
+R001,"This product is absolutely amazing! Best purchase I've ever made. The quality exceeded all my expectations and delivery was super fast.",5,Electronics,2024-01-15,New York,Yes,23,299.99,Long
+R002,"Complete waste of money, terrible quality. Product broke after just one week of normal use.",1,Electronics,2024-01-12,California,Yes,8,299.99,Medium
+R003,"Good value for the price, satisfied with my purchase. Works as expected and decent build quality.",4,Home & Garden,2024-01-18,Texas,Yes,12,89.99,Medium
+R004,"Excellent customer service and lightning fast shipping! Product arrived in perfect condition.",5,Electronics,2024-01-20,Florida,Yes,31,199.99,Medium
+R005,"Product broke after one week, very disappointed. Expected much better quality for this price point.",1,Home & Garden,2024-01-14,Illinois,No,15,89.99,Medium
+R006,"Average product, nothing special but works fine for basic needs. Could be better designed.",3,Electronics,2024-01-22,Ohio,Yes,5,149.99,Medium
+R007,"Outstanding quality! Highly recommend to everyone. This is exactly what I was looking for.",5,Books,2024-01-25,Washington,Yes,42,24.99,Medium
+R008,"Poor packaging, item arrived damaged and unusable. Very frustrating experience overall.",2,Electronics,2024-01-16,Oregon,Yes,18,299.99,Medium
+R009,"Love this! Exactly what I was looking for. Perfect fit and excellent build quality throughout.",5,Clothing,2024-01-28,Nevada,Yes,27,79.99,Medium
+R010,"Not worth the price, found better alternatives elsewhere. Quality doesn't match the cost.",2,Home & Garden,2024-01-19,Arizona,No,9,129.99,Medium
+R011,"Fantastic product, exceeded my expectations completely! Will definitely purchase again in future.",5,Electronics,2024-01-30,Colorado,Yes,35,399.99,Long
+R012,"Terrible experience, would not buy again ever. Customer service was completely unhelpful and rude.",1,Electronics,2024-01-17,Michigan,Yes,22,299.99,Long
+R013,"Pretty good overall, some minor issues but acceptable. Works well for the intended purpose.",3,Books,2024-02-01,Georgia,Yes,7,19.99,Medium
+R014,"Amazing quality and great design, absolutely perfect! Every detail is thoughtfully crafted and beautiful.",5,Home & Garden,2024-02-03,North Carolina,Yes,48,159.99,Long
+R015,"Disappointing product, doesn't work as advertised at all. Marketing claims are completely misleading.",1,Electronics,2024-01-21,Virginia,No,13,249.99,Long
+R016,"Decent product for the price point, reasonable quality. Gets the job done without any major issues.",3,Clothing,2024-02-05,Tennessee,Yes,6,49.99,Medium
+R017,"Absolutely love it! Best decision ever made. This product has completely transformed my daily routine.",5,Home & Garden,2024-02-07,Indiana,Yes,39,199.99,Long
+R018,"Poor customer service, extremely long wait times. Product is okay but support experience was awful.",2,Electronics,2024-01-24,Missouri,Yes,11,179.99,Medium
+R019,"Great product, fast delivery, very happy overall! Exactly as described and works perfectly.",4,Books,2024-02-09,Wisconsin,Yes,16,34.99,Medium
+R020,"Overpriced for what you get, not impressed at all. Similar products available for much less money.",2,Clothing,2024-01-26,Minnesota,No,8,99.99,Medium
+R021,"Incredible quality, will definitely buy again soon! This brand consistently delivers excellent products.",5,Electronics,2024-02-11,Iowa,Yes,44,449.99,Long
+R022,"Product is okay, meets basic expectations adequately. Nothing extraordinary but does what it promises.",3,Home & Garden,2024-01-29,Kansas,Yes,4,69.99,Medium
+R023,"Excellent build quality, very durable material throughout. Feels premium and well-constructed in every aspect.",4,Electronics,2024-02-13,Nebraska,Yes,21,329.99,Long
+R024,"Complete disaster, nothing worked properly from day one. Multiple defects and poor quality control obvious.",1,Electronics,2024-01-31,South Dakota,Yes,19,299.99,Long
+R025,"Good product, reasonable price, definitely recommended! Great balance of quality and affordability.",4,Books,2024-02-15,North Dakota,Yes,14,29.99,Medium
+R026,"Outstanding service, product arrived quickly and safely! Packaging was excellent and protective.",5,Clothing,2024-02-02,Montana,Yes,33,119.99,Medium
+R027,"Mediocre quality, expected much better for price. Feels cheap and poorly made in several areas.",2,Home & Garden,2024-02-04,Wyoming,No,7,149.99,Medium
+R028,"Perfect for my needs, exactly as described accurately! Fits perfectly and works flawlessly every time.",4,Electronics,2024-02-17,Idaho,Yes,25,279.99,Medium
+R029,"Horrible experience, product completely useless and broken. Worst purchase I've made in years.",1,Electronics,2024-02-06,Utah,Yes,17,199.99,Medium
+R030,"Great value for money, very satisfied overall! Excellent quality at a reasonable and fair price.",4,Home & Garden,2024-02-19,Nevada,Yes,28,89.99,Medium
+R031,"Exceptional craftsmanship and attention to detail! Every aspect shows quality and care in manufacturing.",5,Clothing,2024-02-21,Alaska,Yes,41,149.99,Long
+R032,"Subpar performance, frequent malfunctions and issues. Requires constant troubleshooting and maintenance.",2,Electronics,2024-02-08,Hawaii,No,12,399.99,Medium
+R033,"Solid product with reliable performance consistently. Does exactly what it's supposed to do well.",4,Books,2024-02-23,Delaware,Yes,18,39.99,Medium
+R034,"Innovative design, cutting-edge features throughout! This represents the future of this product category.",5,Electronics,2024-02-10,Rhode Island,Yes,52,599.99,Long
+R035,"Cheaply made, falls apart easily with use. Quality control seems non-existent in manufacturing process.",1,Home & Garden,2024-02-12,Vermont,Yes,9,79.99,Medium
+R036,"Satisfactory purchase, meets minimum requirements adequately. Nothing special but gets basic job done.",3,Clothing,2024-02-25,New Hampshire,Yes,5,59.99,Medium
+R037,"Premium quality, worth every penny spent! Investment in excellence that pays off in long run.",5,Electronics,2024-02-14,Maine,Yes,47,799.99,Long
+R038,"Confusing instructions, difficult setup process throughout. User experience could be significantly improved.",2,Electronics,2024-02-16,Massachusetts,No,10,249.99,Medium
+R039,"Reliable and durable, great long-term investment! Built to last with quality materials throughout.",4,Home & Garden,2024-02-27,Connecticut,Yes,22,199.99,Medium
+R040,"Stylish design, impressive functionality in every aspect! Perfect combination of form and function.",5,Clothing,2024-02-18,New Jersey,Yes,36,129.99,Medium
+R041,"Outdated technology, better options available elsewhere. This feels like yesterday's solution to today's problems.",2,Electronics,2024-02-20,Pennsylvania,No,6,349.99,Medium
+R042,"Comfortable and practical for daily use consistently. Well-designed for real-world applications and needs.",4,Clothing,2024-03-01,Maryland,Yes,19,89.99,Medium
+R043,"Revolutionary product, game-changing innovation! This will transform how we approach this entire category.",5,Electronics,2024-02-22,Delaware,Yes,58,899.99,Long
+R044,"Flimsy construction, poor material choices throughout. Feels like it will break with minimal use.",1,Home & Garden,2024-02-24,Virginia,Yes,11,119.99,Medium
+R045,"Standard quality, reasonable expectations met adequately. Does what it promises without exceeding expectations.",3,Books,2024-03-03,West Virginia,Yes,8,24.99,Medium
+R046,"Impressive performance, exceeds advertised specifications! Delivers more than promised in every category.",5,Electronics,2024-02-26,Kentucky,Yes,43,449.99,Long
+R047,"Disappointing durability, shows wear quickly with use. Expected better longevity for this price point.",2,Clothing,2024-02-28,Tennessee,No,13,99.99,Medium
+R048,"Versatile and adaptable to different needs perfectly! One product that handles multiple use cases well.",4,Home & Garden,2024-03-05,North Carolina,Yes,26,159.99,Medium
+R049,"Luxury feel, premium materials used throughout construction! Every detail screams quality and refinement.",5,Clothing,2024-03-02,South Carolina,Yes,49,199.99,Long
+R050,"Basic functionality, nothing more or less expected. Adequate for simple needs but lacks advanced features.",3,Electronics,2024-03-04,Georgia,Yes,7,179.99,Medium
